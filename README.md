@@ -36,7 +36,7 @@ It's part of my learning journey and also something I’m proud to showcase on m
 ```bash
 pip install numpy
 
-2. Run the script
+### 2. Run the script
 
 ```bash
 python salary_analyzer.py --summary --departments --high-earners --export
