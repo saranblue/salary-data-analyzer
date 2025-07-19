@@ -36,6 +36,14 @@ It's part of my learning journey and also something I’m proud to showcase on m
 ```bash
 pip install numpy
 
+# 🧮 Salary Analyzer (Python + NumPy CLI Tool)
+
+A simple command-line project built to analyze employee salary data using NumPy — great for beginners looking to get hands-on with data, scripting, and automation.
+
+---
+
+---
+
 ### 2. Run the script
 
 ```bash
