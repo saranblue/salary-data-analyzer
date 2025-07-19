@@ -34,13 +34,7 @@ It's part of my learning journey and also something I’m proud to showcase on m
 ### 1. Install dependencies
 
 ```bash
-pip install numpy
-
-# 🧮 Salary Analyzer (Python + NumPy CLI Tool)
-
-A simple command-line project built to analyze employee salary data using NumPy — great for beginners looking to get hands-on with data, scripting, and automation.
-
----
+pip install numpy```
 
 ---
 
@@ -49,11 +43,13 @@ A simple command-line project built to analyze employee salary data using NumPy 
 ```bash
 python salary_analyzer.py --summary --departments --high-earners --export
 python salary_analyzer.py --summary
-python salary_analyzer.py --export
+python salary_analyzer.py --export ```
+
+---
 
 ### 3. Format code
 ```bash
-python -m black salary_analyzer.py
+python -m black salary_analyzer.py ```
 
 
 ### 🗂 Sample .csv Output
