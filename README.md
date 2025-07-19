@@ -34,8 +34,8 @@ It's part of my learning journey and also something I’m proud to showcase on m
 ### 1. Install dependencies
 
 ```bash
-pip install numpy```
-
+pip install numpy
+```
 ---
 
 ### 2. Run the script
@@ -43,14 +43,15 @@ pip install numpy```
 ```bash
 python salary_analyzer.py --summary --departments --high-earners --export
 python salary_analyzer.py --summary
-python salary_analyzer.py --export ```
-
+python salary_analyzer.py --export
+```
 ---
 
 ### 3. Format code
 ```bash
-python -m black salary_analyzer.py ```
-
+python -m black salary_analyzer.py
+```
+---
 
 ### 🗂 Sample .csv Output
 Employee ID,Department,Salary
@@ -58,8 +59,9 @@ Employee ID,Department,Salary
 2,Sales,73921
 3,HR,63455
 ...
+---
 
-###🌱 Future Plans
+### 🌱 Future Plans
 I plan to:
 Add a simple web UI to make the tool more interactive
 Integrate charts using matplotlib to visualize salary distribution
