@@ -54,18 +54,20 @@ python -m black salary_analyzer.py
 ---
 
 ### 🗂 Sample .csv Output
-Employee ID,Department,Salary
+``` Employee ID,Department,Salary
 1,IT,90522
 2,Sales,73921
 3,HR,63455
 ...
+```
 ---
 
 ### 🌱 Future Plans
-I plan to:
-Add a simple web UI to make the tool more interactive
-Integrate charts using matplotlib to visualize salary distribution
-Allow users to upload real .csv employee data
+``` I plan to:
+- Add a simple web UI to make the tool more interactive
+- Integrate charts using matplotlib to visualize salary distribution
+- Allow users to upload real .csv employee data
+```
 
 
 
